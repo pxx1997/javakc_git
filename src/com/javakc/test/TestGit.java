@@ -4,4 +4,6 @@ public class TestGit {
 
     String str;
 
+    int age;
+
 }
