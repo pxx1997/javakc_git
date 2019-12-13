@@ -6,5 +6,5 @@ public class TestGit {
 
     int age = 4;
 
-    double dou = 1.1;
+    double dou = 1.2;
 }
